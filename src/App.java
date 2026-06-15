@@ -4,7 +4,7 @@ public class App {
         int res = runEjercicio1(5);
         System.out.println(res);
         System.out.println("Ejercicio 2 ");
-        long ecc2 = runEjercicio2(2,31);
+        long ecc2 = runEjercicio2(2,40);
         System.out.println(ecc2);
         
     }
